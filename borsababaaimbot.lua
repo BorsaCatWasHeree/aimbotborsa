@@ -32,7 +32,7 @@ Instance.new("UICorner", hud)
 
 local title = Instance.new("TextLabel", hud)
 title.Size = UDim2.new(1, 0, 0, 35)
-title.Text = "Lolloborsa"
+title.Text = "LIGHTHUB"
 title.TextColor3 = Color3.new(1, 1, 1)
 title.Font = "FredokaOne"
 title.TextSize = 15
