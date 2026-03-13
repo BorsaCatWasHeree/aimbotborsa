@@ -32,7 +32,7 @@ Instance.new("UICorner", hud)
 
 local title = Instance.new("TextLabel", hud)
 title.Size = UDim2.new(1, 0, 0, 35)
-title.Text = "BORSACAT AIMBOT PANEL"
+title.Text = "Lolloborsa"
 title.TextColor3 = Color3.new(1, 1, 1)
 title.Font = "FredokaOne"
 title.TextSize = 15
@@ -63,7 +63,7 @@ local labels = {
 local footer = Instance.new("TextLabel", hud)
 footer.Size = UDim2.new(1, 0, 0, 30)
 footer.Position = UDim2.new(0, 0, 1, -30)
-footer.Text = "made in borsacat"
+footer.Text = "made by borsacat"
 footer.Font = "FredokaOne"
 footer.TextSize = 14
 footer.BackgroundTransparency = 1
